@@ -2,5 +2,5 @@
 	"ip":"bangladeshsmp.tk",
 	"port": "25565",
 	"name": "Bangladesh SMP",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
